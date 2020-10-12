@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/u1019772/staging.minummen-thaitea.com/
+    - /bin/cp -R * $DEPLOYPATH
