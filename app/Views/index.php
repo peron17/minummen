@@ -179,9 +179,9 @@
 	<section class="bg-product" id="products">
 		<div class="container text-center">
 			<h3 class="mb-5">Varian Produk</h3>
-			<img src="theme/img/product/2.jpeg" class="img-fluid" alt="">
-			<img src="theme/img/product/3.jpeg" class="img-fluid" alt="">
-			<img src="theme/img/product/4.jpeg" class="img-fluid" alt="">
+			<img src="theme/img/product/2.jpeg" class="img-fluid mb-4" alt="">
+			<img src="theme/img/product/3.jpeg" class="img-fluid mb-4" alt="">
+			<img src="theme/img/product/4.jpeg" class="img-fluid mb-4" alt="">
 			<img src="theme/img/product/5.jpeg" class="img-fluid" alt="">
 			<!-- <div class="owl-carousel" id="product">
 				<div class="item py-3">
