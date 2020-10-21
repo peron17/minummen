@@ -85,7 +85,7 @@
                             <textarea name="reason_2" id="" cols="30" rows="4" class="form-control"></textarea>
                         </div>
                         <div class="form-group">
-                            <label for="">Apakah anda siap mengeluarkan dana kemitraan mulai Rp 25.000.000?  (exclude biaya pengiriman, include booth dan semua bahan baku serta peralatan) </label>
+                            <label for="">Apakah anda siap mengeluarkan dana kemitraan mulai Rp 10.000.000?  (exclude biaya pengiriman, include booth dan semua bahan baku serta peralatan) </label>
                             <textarea name="reason_3" id="" cols="30" rows="4" class="form-control"></textarea>
                         </div>
                         <button type="submit" class="btn btn-success btn-lg">Simpan</button>
