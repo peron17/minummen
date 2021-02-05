@@ -325,6 +325,14 @@
 						</div>
 					</div>
 				</div>
+				<div class="item py-3">
+					<div class="card shadow">
+						<div class="card-body p-4">
+							<h4>Gelas #3 </h4>
+							<p>Jl. Brawijaya No 49 Tulungrejo, Kampung Inggris Pare Kab Kediri - Jawa Timur.</p>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>
