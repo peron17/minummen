@@ -333,6 +333,8 @@
 		<div class="container text-center">
 			<h3 class="mb-4">Mari Bergabung Bersama Kami</h3>
 			<p class="text-center">Kami membuka lebar kesempatan bagi seluruh calon pengusaha Indonesia yang ingin maju berkembang dengan menjadi mitra franchise kami. Namun, kami tetap berkomitmen untuk menjaga kualitas dan ciri khas merk kami sehingga kami akan akan melakukan proses seleksi untuk calon mitra kami. Untuk itu, mohon untuk mengisi formulir terlampir secara keseluruhan. Setelah itu proses selanjutnya anda akan dihubungi oleh marketing kami. </p>
+			<img src="theme/img/brosur_franchise_1.jpg" class="img-fluid my-3" alt="">
+			<img src="theme/img/brosur_franchise_2.jpg" class="img-fluid mb-3" alt="">
 			<a href="<?= base_url('/form') ?>" class="btn btn-lg btn-warning py-3 px-5 shadow daftar">Daftar Sekarang</a>
 		</div>
 	</section>
